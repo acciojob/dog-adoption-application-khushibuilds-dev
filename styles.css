@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+form{
+	padding: 10px;
+	margin: 10px;
+    background-color: lemonchiffon;
+	border-radius: 10px;
+	
+}
